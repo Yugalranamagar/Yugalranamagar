@@ -5,14 +5,13 @@
 - 💞️ I’m looking to collaborate on ReactJS
 - 📫 How to reach me 
 
-<a href="https://www.instagram.com/_yugal28/">
-  <img align="left" alt="yugal" width="18px" height="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
+>
 <!-- display the social media buttons in your README -->
 
 [![alt text][1.1]][1]
 [![alt text][2.1]][2]
 [![alt text][3.1]][3]
+[![alt text][4.1]][4]
 [![alt text][6.1]][6]
 
 
@@ -24,6 +23,7 @@
 [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
 [2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
 [3.1]: http://i.imgur.com/yCsTjba.png (google plus icon with padding)
+[3.1]: https://i.imgur.com/ybP12Jx.png (instagram icon with padding)
 [6.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
 
 <!-- icons without padding -->
@@ -41,6 +41,7 @@
 [1]: http://www.twitter.com/yugalranamgr
 [2]: http://www.facebook.com/yugalranamgr
 [3]: https://plus.google.com/yugalrana777
+[3]: https://www.instagram.com/_yugalrana28
 [6]: http://www.github.com/yugalranamagar
 
 
