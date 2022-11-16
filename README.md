@@ -16,7 +16,7 @@
 </a>
 <a href="https://www.facebook.com/yugalranamgr/">
   <img align="left" alt="Yugal's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
+</a><br><br>
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 <!---
