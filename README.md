@@ -6,7 +6,7 @@
 - 📫 How to reach me 
 
 <a href="https://www.instagram.com/_yugal28/">
-  <img align="left" alt="Rahul's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="yugal" width="18px" height="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <!-- display the social media buttons in your README -->
 
