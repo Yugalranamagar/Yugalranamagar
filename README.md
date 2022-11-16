@@ -35,14 +35,14 @@
 <!-- links to your social media accounts -->
 <!-- update these accordingly -->
 
-
+<a href="https://www.instagram.com/_yugal28/">
+  <img align="left" alt="Rahul's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
 [1]: http://www.twitter.com/yugalranamgr
 [2]: http://www.facebook.com/yugalranamgr
 [3]: https://plus.google.com/yugalrana777
 [6]: http://www.github.com/yugalranamagar
-<a href="https://www.instagram.com/_yugal28/">
-  <img align="left" alt="Rahul's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
+
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 <!---
