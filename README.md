@@ -35,5 +35,5 @@ You can click the Preview link to take a look at yyugalranamgr
 <br>
 <summary>📈 My GitHub Stats</summary>
   <p align="center">
-    <img alt="Rahul's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulthapaofficial&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6" height="200"/>
+    <img alt="Rahul's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yugalranamagarlangs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6" height="200"/>
   </p
