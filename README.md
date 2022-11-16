@@ -5,7 +5,9 @@
 - 💞️ I’m looking to collaborate on ReactJS
 - 📫 How to reach me 
 
-
+<a href="https://www.instagram.com/_yugal28/">
+  <img align="left" alt="Rahul's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
 <!-- display the social media buttons in your README -->
 
 [![alt text][1.1]][1]
@@ -35,9 +37,7 @@
 <!-- links to your social media accounts -->
 <!-- update these accordingly -->
 
-<a href="https://www.instagram.com/_yugal28/">
-  <img align="left" alt="Rahul's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
+
 [1]: http://www.twitter.com/yugalranamgr
 [2]: http://www.facebook.com/yugalranamgr
 [3]: https://plus.google.com/yugalrana777
