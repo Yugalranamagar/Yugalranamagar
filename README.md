@@ -32,3 +32,9 @@ You can click the Preview link to take a look at yyugalranamgr
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<br>
+<summary>📈 My GitHub Stats</summary>
+  <p align="center">
+    <img alt="Rahul's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rahulthapaofficial&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6" height="200"/>
+    <img alt="Rahul's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulthapaofficial&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6" height="200"/>
+  </p
