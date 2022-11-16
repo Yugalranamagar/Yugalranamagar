@@ -38,10 +38,11 @@
 
 [1]: http://www.twitter.com/yugalranamgr
 [2]: http://www.facebook.com/yugalranamgr
-[3]: https://plus.google.com/+CarlSednaoui
-[4]: http://carlsed.tumblr.com
-[5]: http://dribbble.com/carlsednaoui
-[6]: http://www.github.com/carlsednaoui
+[3]: https://plus.google.com/yugalrana777
+[6]: http://www.github.com/yugalranamagar
+<a href="https://www.instagram.com/_yugal28/">
+  <img align="left" alt="Rahul's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 <!---
