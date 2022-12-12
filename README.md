@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Yugalranamagar
 
-- 👀 I’m interested in Full Stack Developer.
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on ReactJS
+- 👀 I’m interested in everything.
+- 🌱 I’m currently learning something.
+- 💞️ I’m looking to collaborate on React
 - 📫 How to reach me 
   <br>
   <br>
