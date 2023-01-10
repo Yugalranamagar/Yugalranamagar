@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in everything.
 - 🌱 I’m currently learning something.
-- 💞️ I’m looking to collaborate on React
+- 💞️ I’m looking to collaborate ............?
 - 📫 How to reach me 
   <br>
   <br>
