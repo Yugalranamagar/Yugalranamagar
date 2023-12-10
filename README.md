@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Yugalranamagar
 
 - 👀 I’m interested in everything.
-- 🌱 I’m currently learning something.
-- 💞️ I’m looking to collaborate ............?
+- 🌱 I’m currently learning React Js.
+- 💞️ I’m looking to collaborate something new
 - 📫 How to reach me 
   <br>
   <br>
