@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Yugalranamagar
 
 - 👀 I’m interested in everything.
-- 🌱 I’m currently learning React Js.
+- 🌱 I’m currently learning Kotlin.
 - 💞️ I’m looking to collaborate something new
 - 📫 How to reach me 
   <br>
