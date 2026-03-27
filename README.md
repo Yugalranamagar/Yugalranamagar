@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Yugalranamagar
-- Currently, Studying at Dongshin University(🇰🇷) Department of Software Convergence. 
+- Currently, Studying at Dongshin University(🇰🇷) Department of Software Convergence ~ [Master]
 
 - 👀 I’m interested in everything.
 - 🌱 I’m currently learning Kotlin.
