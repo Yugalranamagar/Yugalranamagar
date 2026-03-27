@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Yugalranamagar
+- Currently, Studying at Dongshin University(🇰🇷) Department of Software Convergence. 
 
 - 👀 I’m interested in everything.
 - 🌱 I’m currently learning Kotlin.
@@ -15,7 +16,7 @@
 <a href="https://www.instagram.com/_yugal28/">
   <img align="left" alt="Yugak's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.facebook.com/yugalranamgr/">
+<a href="https://www.facebook.com/rana.yugal/">
   <img align="left" alt="Yugal's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a><br><br>
 
