@@ -8,7 +8,6 @@
   <br>
   <br>
 <br>
-<img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 <br>
 <a href="https://twitter.com/yugalranamgr">
   <img align="left" alt="Yugal Rana | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -22,7 +21,7 @@
 <a href="https://www.facebook.com/rana.yugal/">
   <img align="left" alt="Yugal's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a><br><br>
-
+<img alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif" />
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 <!---
 Yugalranamagar/Yugalranamagar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
