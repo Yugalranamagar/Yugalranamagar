@@ -7,6 +7,7 @@
 - 📫 How to reach me 
   <br>
   <br>
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="403" />
 <a href="https://twitter.com/yugalranamgr">
   <img align="left" alt="Yugal Rana | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
